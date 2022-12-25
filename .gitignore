@@ -1,4 +1,4 @@
-.css
-.ogg
-.xls
-.java
+*.css
+*.ogg
+*.xls
+*.java
